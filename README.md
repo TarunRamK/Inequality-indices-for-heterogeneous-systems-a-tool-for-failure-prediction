@@ -29,6 +29,12 @@ k_f_finder: Used to find the Kolkata index for a set of systems created by "bash
 
 Others:
 -------
+cross_index.py: Used to find out when the g and k indexes cross with increasing temperature.
+cross_zero.ipynb: Used to find when intermittent phase transitions to continuous phase.
+Note: Both the codes use the files created by "bash_delta.c" from the "Delta" folder.
+
+========================================================================================================================
+
 
 
 Note: The folders "Delta", "Uniform" and "Weibull" each contain 5 files, out of which 3 are identical while the remaining 2 files differ slightly. The files named "g_and_k.ipynb", "g_f_finder.py", and "k_f_finder.py" in one folder are identical to the files with the same name from different folders. The files named "g_and_k.ipynb", "g_f_finder.py", and "k_f_finder.py" in the "Delta" folder are the same as those from the "Uniform" and "Weibull" folders.
